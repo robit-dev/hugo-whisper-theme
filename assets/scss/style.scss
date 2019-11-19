@@ -51,6 +51,11 @@ body {
   padding-right: $grid-gutter-width;
 }
 
+pre {
+  background: #efefefeb;
+  border-radius: 5px !important;
+}
+
 // Display breakpoints for DEV
 // body:after {
 //   color: #000000;
